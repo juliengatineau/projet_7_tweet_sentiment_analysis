@@ -9,7 +9,7 @@ This is a Flask API for analyzing sentiment in tweets
 ## Installation
 
 Clone the repository:
-git clone https://github.com/juliengatineau/projet_7
+git clone https://github.com/juliengatineau/projet_7_tweet_sentiment_analysis
 
 Install the required dependencies:
 cd backend
@@ -22,7 +22,7 @@ To run the API backend, use the command:
 flask run backend/app.py
 
 To run the frontend_internal_port
-flask run frontend/app_frontedn.py
+flask run frontend/app_frontend.py
 
 
 ## Tests
