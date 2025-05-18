@@ -2,7 +2,9 @@
 
 
 ## Description
-This is a Flask API for analyzing sentiment in tweets 
+This is a Flask API for analyzing sentiment in tweets.
+Tweets tokenization with TF/IDF.
+Prediction with custom keras neural network using LSTM layer
 
 
 
